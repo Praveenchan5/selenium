@@ -26,8 +26,6 @@ public class Test2 {
 	
 	}
 	
-	
-	//private void sysout("changes made by praveen") {
 
 	}
 	

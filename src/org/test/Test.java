@@ -5,6 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+import io.opentelemetry.exporter.logging.SystemOutLogExporter;
+
 public class Test {
 	
 	
@@ -25,9 +27,10 @@ driver.manage().window().maximize();
 
 //WebElement txtsecond = driver.findElement(By.id("u_i_d_kM"));
 //txtsecond.sendKeys("chan");
-	
+	System.out.println("New changes");
 
 
 	}
 
-}
+	}
+
