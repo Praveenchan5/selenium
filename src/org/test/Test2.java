@@ -26,8 +26,8 @@ public class Test2 {
 	
 	}
 	
-	
-	
+
+	}
 	
 
-}
+
